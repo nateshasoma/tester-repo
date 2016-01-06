@@ -39,7 +39,7 @@ Agreement will be recognised as defined, but Agreements won't be, because the pl
 
 ## Definitions
 
-### Agreement
+### Agreement, agreements
 means the legally binding agreement between the Buyer and Seller pursuant to this document.  Definitions can also have {{variables}}.
 
 ### Second Definition
